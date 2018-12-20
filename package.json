@@ -1,0 +1,20 @@
+{
+  "name": "pullRequestHookTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"WHat\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumithewildspirit/pullRequestHookTest.git"
+  },
+  "keywords": [],
+  "author": "Tymu$",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumithewildspirit/pullRequestHookTest/issues"
+  },
+  "homepage": "https://github.com/sumithewildspirit/pullRequestHookTest#readme"
+}
